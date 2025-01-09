@@ -12,7 +12,7 @@ namespace TestProject
             int target = 1;
 
             Solution solution = new();
-            int smallestDistance = solution.SmallestDistancePair(nums, target);
+            int smallestDistance = solution.SmallestDistancePairByArray(nums, target);
             Assert.Equal(0, smallestDistance);
         }
     }
