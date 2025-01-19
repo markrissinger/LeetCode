@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{B37E498C-18ED-4823-9009-CDE10387D1E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode", "LeetCode\LeetCode.csproj", "{B37E498C-18ED-4823-9009-CDE10387D1E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{1FD3DEAC-A862-4C17-B881-317628800DCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{1FD3DEAC-A862-4C17-B881-317628800DCE}"
 	ProjectSection(ProjectDependencies) = postProject
 		{B37E498C-18ED-4823-9009-CDE10387D1E4} = {B37E498C-18ED-4823-9009-CDE10387D1E4}
 	EndProjectSection

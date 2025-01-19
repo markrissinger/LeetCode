@@ -9,7 +9,6 @@ namespace TestProject
 {
     public class MinimumCostToMakeAtLeastOneValidPathInGrid
     {
-
         [Fact]
         public void Test()
         {
